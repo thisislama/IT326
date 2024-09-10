@@ -1,8 +1,8 @@
 # IT326 Project
-| Section-71681 |
-| ------------- |
-| ID | Name |
-| --- | --- |
+<!--| Section-71681 |-->
+<!--| ------------- |-->
+|  ID   | Name  |
+| ----- | ----- |
 | 444201026 |  Lama Albugami |
 | 444203559 |  Hour Alajaji |
 | 444200811 |  noor algumlas |
