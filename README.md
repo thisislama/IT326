@@ -9,7 +9,7 @@
 | 444200869 |  Alanoud Alshayea |
 | 444203559 |  Danyh Alotaibi |
 
-## About Our Project: Predicting Car Accident Severity
+## About Our Project: Predicting Car Accidents
 Car accidents are a significant public health concern, resulting in injuries, fatalities, and economic losses. Accurate prediction of accident severity can enable timely intervention and resource allocation for prevention and mitigation. This project aims to develop a predictive model to predict car accident severity based on various attributes.
 
 ## Goal 
